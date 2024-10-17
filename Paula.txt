@@ -21,5 +21,9 @@ Porque le estaba pidiendo a la consola unir dos archivos iguales pero que había
 Entonces me pidió que decidiese con cuál de los dos cambios quedarme, o unirlos ambos, o modificarlos a placer.
 
 4. ¿Cómo o en qué es GitHub diferente a Git?
+En todo. GitHub es mucho más visual, intuitivo, agradable, sencillo, rápido y eficiente. En git tienes que escribir una barbaridad de comandos 
+que hace que seas más propenso a cometer errores. GitHub es el futuro.
 
 5.  Tras realizar push de master, ¿puedes también ver en GitHub tus ramas taller-info y yo++?
+No, porque el push que hice fue solo de main. Si quisiera que estuviesen las otras debería de escribir en Git el comando "git push -u origin taller-info".
+Y con la rama yo++, igual.
