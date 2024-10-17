@@ -8,4 +8,8 @@ Sí funcionaría. Se usa para configurar un nombre o correo electrónico diferen
 
 Oración sobre mí: Quiero prenderle fuego a mi PC.
 
-¿Desde la rama taller-info, el archivo .txt con tu nombre tiene contenido o está vacío? ¿Por qué crees que es así?
+2. ¿Desde la rama taller-info, el archivo .txt con tu nombre tiene contenido o está vacío? 
+El único contenido que tiene es la pregunta número 1 con su respuesta, pero no tiene la oración sobre mí.
+
+¿Por qué crees que es así?
+Porque la oración sobre mí la escribí en la rama main, no en la rama taller-info. En esa solo modifiqué el archivo README.md
