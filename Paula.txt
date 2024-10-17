@@ -13,3 +13,5 @@ El único contenido que tiene es la pregunta número 1 con su respuesta, pero no
 
 ¿Por qué crees que es así?
 Porque la oración sobre mí la escribí en la rama main, no en la rama taller-info. En esa solo modifiqué el archivo README.md
+
+Oración sobre mí: Quiero prenderle fuego a mi PC.
