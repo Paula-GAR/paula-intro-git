@@ -1,0 +1,9 @@
+1. ¿Para qué sirve establecer el parámetro --global? 
+
+La opción --global se asegura de que esta configuración sea válida para todos los proyectos en los que trabajes en esa máquina.
+
+¿Funcionaría si no lo ponemos?
+
+Sí funcionaría. Se usa para configurar un nombre o correo electrónico diferente para un proyecto específico.
+
+Oración sobre mí: Quiero prenderle fuego a mi PC.
