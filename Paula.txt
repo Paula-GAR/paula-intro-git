@@ -19,3 +19,7 @@ Oración sobre mí: Quiero prenderle fuego a mi PC.
 3. ¿Por qué ocurrió un conflicto en este caso?
 Porque le estaba pidiendo a la consola unir dos archivos iguales pero que habían sido modificados de manera distinta y en el mismo sitio. 
 Entonces me pidió que decidiese con cuál de los dos cambios quedarme, o unirlos ambos, o modificarlos a placer.
+
+4. ¿Cómo o en qué es GitHub diferente a Git?
+
+5.  Tras realizar push de master, ¿puedes también ver en GitHub tus ramas taller-info y yo++?
