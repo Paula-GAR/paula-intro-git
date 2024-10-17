@@ -15,3 +15,7 @@ El único contenido que tiene es la pregunta número 1 con su respuesta, pero no
 Porque la oración sobre mí la escribí en la rama main, no en la rama taller-info. En esa solo modifiqué el archivo README.md
 
 Oración sobre mí: Quiero prenderle fuego a mi PC.
+
+3. ¿Por qué ocurrió un conflicto en este caso?
+Porque le estaba pidiendo a la consola unir dos archivos iguales pero que habían sido modificados de manera distinta y en el mismo sitio. 
+Entonces me pidió que decidiese con cuál de los dos cambios quedarme, o unirlos ambos, o modificarlos a placer.
